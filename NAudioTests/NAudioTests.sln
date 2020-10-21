@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAudioTests", "NAudioTests.csproj", "{3A219A59-E31D-4758-BCFB-561C24DA059D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A219A59-E31D-4758-BCFB-561C24DA059D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A219A59-E31D-4758-BCFB-561C24DA059D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A219A59-E31D-4758-BCFB-561C24DA059D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A219A59-E31D-4758-BCFB-561C24DA059D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67749152-5F74-49D1-A598-B09B90BE03D8}
+	EndGlobalSection
+EndGlobal
