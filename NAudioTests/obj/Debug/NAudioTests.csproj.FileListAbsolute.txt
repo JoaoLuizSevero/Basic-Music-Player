@@ -29,3 +29,4 @@ C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\MusicPlayer_template\NAudioTes
 C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\MusicPlayer_template\NAudioTests\bin\Debug\NAudio.dll
 C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\MusicPlayer_template\NAudioTests\bin\Debug\NAudio.xml
 C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\MusicPlayer_template\NAudioTests\obj\Debug\NAudioTests.csproj.CopyComplete
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\MusicPlayer_template\NAudioTests\obj\Debug\NAudioTests.csprojAssemblyReference.cache

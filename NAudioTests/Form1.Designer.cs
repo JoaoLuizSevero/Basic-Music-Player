@@ -463,11 +463,11 @@
             // cb_controle
             // 
             this.cb_controle.AutoSize = true;
-            this.cb_controle.Location = new System.Drawing.Point(207, 113);
+            this.cb_controle.Location = new System.Drawing.Point(199, 114);
             this.cb_controle.Name = "cb_controle";
-            this.cb_controle.Size = new System.Drawing.Size(105, 17);
+            this.cb_controle.Size = new System.Drawing.Size(131, 17);
             this.cb_controle.TabIndex = 11;
-            this.cb_controle.Text = "Habilitar controle";
+            this.cb_controle.Text = "Enable manual control";
             this.cb_controle.UseVisualStyleBackColor = true;
             this.cb_controle.CheckedChanged += new System.EventHandler(this.cb_controle_CheckedChanged);
             // 
