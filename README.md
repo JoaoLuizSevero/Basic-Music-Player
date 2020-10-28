@@ -1,4 +1,4 @@
-# MusicPlayer_template
+# Basic Music Player
 
 ## About
 
